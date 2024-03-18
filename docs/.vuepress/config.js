@@ -20,6 +20,10 @@ module.exports = {
                 {
                     title: '4.硬件制作',
                     path: '/guide/4_硬件制作/'
+                },
+                {
+                    title: '5.2024年新版硬件',
+                    path: '/guide/5_2024年新版硬件/'
                 }
             ]
         }
