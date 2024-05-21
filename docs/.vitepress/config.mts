@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ElectronBot精选文档",
   description: "主要包含复刻流程和相关介绍",
+  base: '/electronbot-doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
