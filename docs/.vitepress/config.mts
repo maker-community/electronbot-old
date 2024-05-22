@@ -20,6 +20,7 @@ export default defineConfig({
       {
         text: '文档中心',
         items: [
+          { text: '快速开始', link: '/guide/getting-started' },
           { text: '1.背景说明', link: '/start-doc' },
           { text: '2.电子重要信息汇总', link: '/guide/2_电子制作步骤及重要信息汇总/README' },
           { text: '3.基础知识扫盲', link: '/guide/3_基础知识扫盲/README' },
