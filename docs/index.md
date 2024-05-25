@@ -8,11 +8,11 @@ hero:
   tagline: 希望每个人都可以轻松拥有一个电子。
   actions:
     - theme: brand
-      text: 背景说明
-      link: /start-doc
+      text: 制作流程
+      link: /guide/制作流程/前言
     - theme: alt
       text: 快速开始
-      link: /guide/getting-started
+      link: /guide/pcb-info
     - theme: alt
       text: GitHub
       link: https://github.com/maker-community
@@ -73,7 +73,7 @@ features:
           </path>
         </svg>
     title: 更多的期待
-    details: 如果大家都能做出好玩的电子，详细以后的电子应该会变得更完善。
+    details: 如果大家都能做出好玩的电子，相信以后的电子应该会变得更完善。
 ---
 
 

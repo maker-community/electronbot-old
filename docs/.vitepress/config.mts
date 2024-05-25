@@ -30,11 +30,12 @@ export default defineConfig({
         text: '制作流程（必读）',
         collapsed: false,
         items: [
-          { text: '1.打板', link: '/guide/getting-started' },
-          { text: '2.物料零件购买', link: '/start-doc' },
-          { text: '3.PCB焊接', link: '/guide/3_基础知识扫盲/README' },
-          { text: '4.固件烧录、驱动安装', link: '/guide/3_基础知识扫盲/README' },
-          { text: '5.测试、外壳组装', link: '/guide/3_基础知识扫盲/README' },
+          { text: '1.前言', link: '/guide/制作流程/前言' },
+          { text: '2.打板', link: '/guide/getting-started' },
+          { text: '3.物料零件购买', link: '/start-doc' },
+          { text: '4.PCB焊接', link: '/guide/3_基础知识扫盲/README' },
+          { text: '5.固件烧录、驱动安装', link: '/guide/3_基础知识扫盲/README' },
+          { text: '6.测试、外壳组装', link: '/guide/3_基础知识扫盲/README' },
         ]
       },
       {
