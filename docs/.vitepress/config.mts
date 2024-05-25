@@ -19,6 +19,7 @@ export default defineConfig({
     sidebar: [
       {
         text: '文档中心',
+        collapsed: false,
         items: [
           { text: '快速开始', link: '/guide/getting-started' },
           { text: '1.背景说明', link: '/start-doc' },
@@ -27,7 +28,16 @@ export default defineConfig({
           { text: '4.硬件制作', link: '/guide/4_硬件制作/README' },
           { text: '5.2024年新版硬件', link: '/guide/5_2024年新版硬件/README' },
         ]
-      }
+      },
+      {
+        text: '辅助焊接图',
+        collapsed: false,
+        items: [
+          { text: '头部焊接图', link: '/guide/辅助焊接工具图/头部焊接图' },
+          { text: '语音传感器二合一', link: '/guide/辅助焊接工具图/语音传感器二合一' },
+          { text: '舵机多合一', link: '/guide/辅助焊接工具图/舵机多合一' },
+        ]
+      },
     ],
 
     socialLinks: [
