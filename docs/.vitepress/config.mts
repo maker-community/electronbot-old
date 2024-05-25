@@ -18,6 +18,26 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '推荐复刻版本（必读）',
+        collapsed: false,
+        items: [
+          { text: '1.板子展示', link: '/guide/pcb-info' },
+          { text: '2.疑惑解答（疑惑必读）', link: '/guide/推荐复刻版本/疑惑解答' },
+          { text: '3.效果展示', link: '/guide/3_基础知识扫盲/README' },
+        ]
+      },
+      {
+        text: '制作流程（必读）',
+        collapsed: false,
+        items: [
+          { text: '1.打板', link: '/guide/getting-started' },
+          { text: '2.物料零件购买', link: '/start-doc' },
+          { text: '3.PCB焊接', link: '/guide/3_基础知识扫盲/README' },
+          { text: '4.固件烧录、驱动安装', link: '/guide/3_基础知识扫盲/README' },
+          { text: '5.测试、外壳组装', link: '/guide/3_基础知识扫盲/README' },
+        ]
+      },
+      {
         text: '文档中心',
         collapsed: false,
         items: [
