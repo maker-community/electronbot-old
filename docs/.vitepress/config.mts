@@ -23,7 +23,7 @@ export default defineConfig({
         items: [
           { text: '1.板子展示', link: '/guide/pcb-info' },
           { text: '2.疑惑解答（疑惑必读）', link: '/guide/推荐复刻版本/疑惑解答' },
-          { text: '3.效果展示', link: '/guide/3_基础知识扫盲/README' },
+          { text: '3.效果展示', link: '/guide/推荐复刻版本/效果展示' },
         ]
       },
       {
@@ -31,11 +31,11 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '1.前言', link: '/guide/制作流程/前言' },
-          { text: '2.打板', link: '/guide/getting-started' },
-          { text: '3.物料零件购买', link: '/start-doc' },
-          { text: '4.PCB焊接', link: '/guide/3_基础知识扫盲/README' },
-          { text: '5.固件烧录、驱动安装', link: '/guide/3_基础知识扫盲/README' },
-          { text: '6.测试、外壳组装', link: '/guide/3_基础知识扫盲/README' },
+          { text: '2.打板', link: '/guide/制作流程/打板' },
+          { text: '3.物料零件购买', link: '/guide/制作流程/物料零件购买' },
+          { text: '4.PCB焊接', link: '/guide/制作流程/pcb焊接' },
+          { text: '5.固件烧录、驱动安装', link: '/guide/制作流程/固件烧录驱动安装' },
+          { text: '6.测试、外壳组装', link: '/guide/制作流程/测试外壳组装' },
         ]
       },
       {
