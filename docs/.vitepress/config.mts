@@ -30,12 +30,13 @@ export default defineConfig({
         text: '制作流程（必读）',
         collapsed: false,
         items: [
-          { text: '1.前言', link: '/guide/制作流程/前言' },
-          { text: '2.打板', link: '/guide/制作流程/打板' },
-          { text: '3.物料零件购买', link: '/guide/制作流程/物料零件购买' },
-          { text: '4.PCB焊接', link: '/guide/制作流程/pcb焊接' },
-          { text: '5.固件烧录、驱动安装', link: '/guide/制作流程/固件烧录驱动安装' },
-          { text: '6.测试、外壳组装', link: '/guide/制作流程/测试外壳组装' },
+          { text: '1.前言', link: '/guide/ProductionProcess/前言' },
+          { text: '2.打板', link: '/guide/ProductionProcess/打板' },
+          { text: '3.精英版A2-DCDC清单(推荐)', link: '/guide/ProductionProcess/elite-a2-dcdc' },
+          { text: '4.物料零件购买（旧版）', link: '/guide/ProductionProcess/物料零件购买' },
+          { text: '5.PCB焊接', link: '/guide/ProductionProcess/pcb焊接' },
+          { text: '6.固件烧录、驱动安装', link: '/guide/ProductionProcess/固件烧录驱动安装' },
+          { text: '7.测试、外壳组装', link: '/guide/ProductionProcess/测试外壳组装' },
         ]
       },
       {
