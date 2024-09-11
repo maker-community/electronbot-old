@@ -103,3 +103,24 @@
 | [10K](https://detail.tmall.com/item.htm?_u=638jp1n63c8&id=730741754292&skuId=5236050159136&spm=a1z09.2.0.0.2b922e8dYscbuj) |  无   |                 RES_0603                |  6   |          |
 | [120R](https://detail.tmall.com/item.htm?_u=638jp1n63c8&id=730741754292&skuId=5236050159090&spm=a1z09.2.0.0.2b922e8dYscbuj) |  无   |                 RES_0603               |  6   |          
 | [1K](https://detail.tmall.com/item.htm?_u=638jp1n63c8&id=730741754292&skuId=5236050159112&spm=a1z09.2.0.0.2b922e8dYscbuj) |  无   |                 RES_0603               |  1   |          |
+
+
+## 非阻容配件辅料表
+|                           元件型号                           | 位号  |                   型号明细                   | 数量 |   备注   |
+| :----------------------------------------------------------: | :---: | :--------------------------------------: | :--: | :------: |
+| [SH1.0转2.54杜邦线材3P](https://item.taobao.com/item.htm?_u=b38jp1n33d4&id=714756854302&spm=a1z09.2.0.0.50c02e8dTHxoHQ&skuId=5173574099878) |  无   |           3P            | 1 |     主控板烧录使用     |
+| [SH1.0线材2P](https://item.taobao.com/item.htm?_u=b38jp1n497f&id=694132143171&sku_properties=1627207:1585641342;-1:-1&spm=a1z09.2.0.0.50c02e8dTHxoHQ) |  无   |           2P            |  |     喇叭使用 |
+| [磁吸POGO PIN磁吸连接器2P](https://item.taobao.com/item.htm?_u=b38jp1n0447&id=650683179648&spm=a1z09.2.0.0.50c02e8dTHxoHQ) |    无  |           2P带耳           |  1  |     背包喇叭使用 |
+| [摄像头](https://item.taobao.com/item.htm?_u=b20q7cgb6b84&id=567717780577&spm=a1z09.2.0.0.1f3c2e8df9Af9i) |  无   |                    无                    |  1   |          |
+| [SH1.0双头反向4P线](https://detail.tmall.com/item.htm?id=624787779569&ns=1&pisk=fZisLVw3F1fsLZYwPtpURHmKcFEj5jtP1twxExINHlETM2MoG5JDSluQGXhQ6GJMSrFjslUm7SPaGoMmNpRy43kiIoqpaQ-yq1E2SujODNC49MeYSBJFT3kiISX1MLup4Za_PCbOkShYvye4HoCADRpQJ-2bDGUAXwCLtWFYD5eA9JegCseYBNpCJ-wR6sIOX6KLU8WTDohYv6hygGeXp5k6pyV4MI8VwYFCDg6uCPKrIZScmwwgW7ULBieEARa_wAnMLygTpDoQzyW29kHo8feQVH7T2vgxN4hDzwqsHVh0RfAhRWuK8xFYJtItdXMYvc35HiHQf5hrXPf6O7nip0qL83pSpDcZIDMVHneEaWHiXotJElZT6kwn0BjTG23xbPqc6QziH2GQCuIPFgP7QD_fdzjbd7JBdZbDRcg02SWbf8aTKRNDdp1OUPe3d-JBdZb0WJ2Frp9C6T5..&priceTId=213e36ca17260272297204204ea092&skuId=5070155728367&spm=a21n57.1.item.1.290a523cpRZ93c&utparam=%7B%22aplus_abtest%22:%222d0c0c9227b266c3e7d163a6d4ce40a7%22%7D&xxc=ad_ztc) |  无   |        10CM,反向         | 1  |      舵机板连接语音传感器板    |
+| [4.3g舵机](https://item.taobao.com/item.htm?id=561100959951&skuId=4466243603017&spm=a1z10.3-c-s.w4002-24032463620.36.e1285bdfEDd3Ve) |  无   |                    无                    |  5   |          |
+| [9g舵机](https://item.taobao.com/item.htm?id=560963513964&spm=a1z10.3-c-s.w4002-24032463620.16.28145bdfkyicVu&skuId=4621283837889) |  无   |                    无                    |  1   |          |
+| [推杆](https://detail.tmall.com/item.htm?abbucket=9&id=687938827035&ns=1&priceTId=2150407317171582904975087eceab&spm=a21n57.1.item.9.2c56523c9ANnIp&skuId=5075553231852) |  无   |                  M2*25                   |  2   |          |
+| [肩部轴承](https://item.taobao.com/item.htm?_u=b38jp1n99fb&id=624000277607&spm=a1z09.2.0.0.50c02e8dTHxoHQ&skuId=4586381098478) |  无   |        肩膀6x10x3mm         | 2 |          |
+| [腰部轴承](https://item.taobao.com/item.htm?_u=b38jp1n42aa&id=22147131905&spm=a1z09.2.0.0.50c02e8dTHxoHQ&skuId=31676637844) |  无   |        腰部25x32x4mm         | 1 |          |
+| [螺丝](https://item.taobao.com/item.htm?_u=b20q7cgb74bb&id=571154046536&spm=a1z09.2.0.0.1f3c2e8df9Af9i) |  无   |                M2*4、5、6                | 若干 |          |
+| [螺丝](https://detail.tmall.com/item.htm?_u=b38jp1nc1f0&id=601243200968&spm=a1z09.2.0.0.50c02e8dTHxoHQ) |  无   |                  M1*10                   | 若干 |          |
+| [0.8cm的4pin刺破端子线材反向](https://item.taobao.com/item.htm?_u=aqc0n0p2a6e&id=651242539508&sku_properties=1627207:11548701;-2:-4&spm=a1z09.2.0.0.231e2e8dls1tgi) |  无   |                  10cm 4pin反向            | 7 |       摄像头使用   |
+| [0.8cm的5pin刺破端子线材同向](https://item.taobao.com/item.htm?_u=b38jp1n55b3&id=651242539508&spm=a1z09.2.0.0.43b92e8dcatZo9&skuId=4867116763839) |  无   |                  10cm 5pin双头（5根）   20cm双头（1根 ）  同向           | 6 |  舵机使用        |
+| [烧录烧写测试针弹簧针](https://item.taobao.com/item.htm?_u=b38jp1n3431&id=734732308160&spm=a1z09.2.0.0.43b92e8dcatZo9&skuId=5254802443743) |  无   |       2.54间距4P               | 1 |  舵机板030烧录使用        |
+| [stlink下载器线烧录调试](https://detail.tmall.com/item.htm?_u=b38jp1n1d88&id=558866168716&skuId=5146051183964&spm=a1z09.2.0.0.43b92e8dcatZo9) |  无   |                    | 1 |  烧录使用        |
