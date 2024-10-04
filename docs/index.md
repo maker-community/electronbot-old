@@ -81,6 +81,8 @@ features:
 ---
 
 
+### [推荐访问精英版复刻文档地址复刻最新版本](https://maker-community.github.io/electronbot-doc/)
+
 **本文档基于ElectronBot小白入坑指南-适配小卡版**
 
 **QQ群：147597938**
