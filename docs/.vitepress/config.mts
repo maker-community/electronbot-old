@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ElectronBot精选文档",
-  description: "主要包含复刻流程和相关介绍",
-  base: '/electronbot-doc/',
+  description: "主要包含旧版本复刻流程和相关介绍",
+  base: '/electronbot-old/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
